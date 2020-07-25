@@ -1,6 +1,6 @@
 # EditDistance-Leetcode-72
 
-Leetcode Question 72 (Medium)
+Leetcode Question 72 (Hard)
 
 Techniques Used in Question:
 Dynamic-Programming
